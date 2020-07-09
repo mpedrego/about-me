@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Michael Pedrego -- Front End Developer -- http://michaelpedrego.com
 
 # THANKS
 
-    <name>
+    Jeanneth Pedrego
 
 # TECHNOLOGY COLOPHON
 
